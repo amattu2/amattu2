@@ -7,8 +7,9 @@ Hi, I'm Alec. I've dabbled with a whole host of languages (Basic, C, Java, Pytho
 - PHP
 - JavaScript, Node.js (HTMl/CSS)
 - Python3
-- Ardunio-C 
 - SQL (MySQL)
+- Ardunio-C
+- Basic (P2Basic)
 
 #### By Coursework
 - C++ (See CMSC-140)
