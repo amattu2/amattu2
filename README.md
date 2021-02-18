@@ -15,4 +15,5 @@ Hi, I'm Alec. I've dabbled with a whole host of languages (Basic, C, Java, Pytho
 - C++ (See CMSC-140)
 - Java (See CMSC-203, CMSC-204)
 - C, MIPS Assembly (See CMSC-216)
+- R (See INST-314)
 
