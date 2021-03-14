@@ -5,7 +5,7 @@ Hi, I'm Alec. I've dabbled with a whole host of languages (Basic, C, Java, Pytho
 ### Programming Languages
 #### By Self Learning
 - PHP
-- JavaScript, Node.js (HTMl/CSS)
+- JavaScript, Node.js (HTML/CSS)
 - Python3
 - SQL (MySQL)
 - Ardunio-C
