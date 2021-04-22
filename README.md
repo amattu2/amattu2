@@ -8,7 +8,7 @@ Hi, I'm Alec. I've dabbled with a whole host of languages (Basic, C, Java, Pytho
 - [JavaScript](https://github.com/amattu2?tab=repositories&q=&type=&language=javascript), Node.js
 - HTML/CSS
 - Python3
-- SQL (MySQL)
+- SQL (MySQL, See [INST-327](https://github.com/amattu2/INST-327))
 - Ardunio-C
 - Basic (P2Basic)
 
