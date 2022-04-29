@@ -9,14 +9,14 @@ Hi, I'm Alec. I've dabbled with a whole host of languages (Basic, C, Java, Pytho
 - HTML/CSS
 - [JavaScript](https://github.com/amattu2?tab=repositories&q=&type=&language=javascript), Node.js, React.js
 - [PHP](https://github.com/amattu2?tab=repositories&q=&type=&language=php)
-- Python3 (See [INST-414](https://github.com/amattu2/INST-414))
-- SQL (MySQL, See [INST-327](https://github.com/amattu2/INST-327))
+- [Python](https://github.com/amattu2?tab=repositories&q=&type=&language=python) (See also [INST-414](https://github.com/amattu2/INST-414))
+- SQL, MySQL (See also [INST-327](https://github.com/amattu2/INST-327))
 
 #### By Coursework
 - C++ (See [CMSC-140](https://github.com/amattu2/CMSC-140))
 - C, MIPS Assembly (See [CMSC-216](https://github.com/amattu2/CMSC-216))
 - Java (See [CMSC-203](https://github.com/amattu2/CMSC-203), [CMSC-204](https://github.com/amattu2/CMSC-204))
-- MATLAB
+- MATLAB (See [MATH-240](https://github.com/amattu2/MATH-240))
 - R (See [INST-314](https://github.com/amattu2/INST-314))
 
 ### Statistics
